@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+redis
+httpx
+requests
+python-dotenv
+langchain
+openai
+python-multipart
